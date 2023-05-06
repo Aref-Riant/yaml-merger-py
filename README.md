@@ -67,5 +67,6 @@ kubeVersionOverride: ""
 
 # Requirements:
 `pip install ruamel.yaml`
+`pip install mergedeep`
 
 # 
